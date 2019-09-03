@@ -11,12 +11,12 @@ If you'd like to leave comments on any questions, comment [on this Google doc](h
 ## Notes
 
 - Responses will be associated with WCA profiles (it won't be possible to submit a valid survey without a unique code assigned to you).
-  - Normal member will be asked to self-identify (TBD) as "new" or "experienced".
+  - Normal members will be asked to self-identify (TBD) as "new" or "experienced".
   - WCA Staff and recent organizers will automatically be categorized as "experienced" for the purposes of this survey.
-  - Since responses are associated with profiles, we can use profile information for analysis, e.g. who has competed where/how often.
+  - Since responses are associated with profiles, we can use profile information for analysis, e.g. who has competed where/how often, world rankings, gender, how frequently they organize competitions, current/past WCA staff status.
 - We’re trying to maximize the number of pre-designated answers, so that the survey can be translated. For anything open-ended, we plan to use [response coding](https://en.wikipedia.org/wiki/Coding_(social_sciences)) to categorize the responses (with help from translators).
-- We will randomize the order to response choices to avoid bias, when the order of the choices is irrelevant.
-- We plan to reduce the number of questions for the final version. Please let us know which questions you think should be dropped or combined!
+- We will randomize the order of response choices to avoid bias, when the order of the choices is irrelevant.
+- We hope to reduce the number of questions for the final version. Please let us know which questions you think should be dropped or combined!
 
 ## Sections
 
