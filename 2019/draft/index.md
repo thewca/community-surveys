@@ -4,6 +4,10 @@
 
 # WCA Community Survey (DRAFT)
 
+## Feedback on this draft
+
+If you'd like to leave comments on any questions, comment [on this Google doc](https://docs.google.com/document/d/1PKIN5wOqbunIeNDQVyQH74BdahLGLimk6KZcaa1CT1U/edit#) or directly [on GitHub](https://github.com/thewca/community-surveys).
+
 ## Notes
 
 - Responses will be associated with WCA profiles (it won't be possible to submit a valid survey without a unique code assigned to you).
