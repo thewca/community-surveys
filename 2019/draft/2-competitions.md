@@ -16,10 +16,12 @@
 
 ## `[NEW/EXPERIENCED]` Which of the following do you think are consistently good at your local competitions?
 
-- Communication from the organizers (e.g. online announcements, announcements during the competition)
-- Organizers/Delegates were approachable and experienced
-- Competitions stayed on schedule
-- Good venues (building, competition layout, audience space)
+Select all that apply.
+
+- [ ] Communication from the organizers (e.g. online announcements, announcements during the competition)
+- [ ] Organizers/Delegates were approachable and experienced
+- [ ] Competitions stayed on schedule
+- [ ] Good venues (building, competition layout, audience space)
 
 ## `[ALL]` If you plan to compete in the future, what are the major reasons?
 
