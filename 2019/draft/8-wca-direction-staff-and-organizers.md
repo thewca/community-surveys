@@ -26,7 +26,7 @@ WCA Euros 2018 was a major competition without a main sponsor. If you'd like, yo
 
 > The Spirit of the World Cube Association is that people from all over the world have fun together in a friendly atmosphere, help each other, and behave in a sportsmanlike fashion
 
-> `long text field`
+> [Paragraph text field]
 
 <hr>
 

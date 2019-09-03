@@ -10,7 +10,7 @@ If you can, please keep your feedback short.
 
 Please note that we will not reply to your feedback directly. If you have particular requests or suggestions you'd like to discuss, please contact us directly: <https://wca.link/contact>
 
-> (Paragraph text field)
+> [Paragraph text field]
 
 <hr>
 
