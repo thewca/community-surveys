@@ -16,10 +16,13 @@ Select all that apply.
 
 ## [ALL] What new features would you most like to see on the WCA website?
 
-- Upcoming competitions near you.
-- Recent official results/records.
-- Links to speedcubing resources
-- Other: [text field]
+Select as many as you want.
+
+- [ ] Forum
+- [ ] Upcoming competitions near you
+- [ ] Recent official results/records
+- [ ] Links to speedcubing resources
+- [ ] Other: [text field]
 
 ## [EXPERIENCED] Would you support a results filter to view rankings by gender on the WCA website? 
 
