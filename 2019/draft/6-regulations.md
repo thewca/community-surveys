@@ -57,11 +57,11 @@ If the Regulations are more strict, then incidents could be handled consistently
 - Neutral
 - More strict
 
-## [EXPERIENCED] Would you like to see “Average of 5” (with an optional cutoff after 2 solves) used for 6x6x6 and 7x7x7?
+## [EXPERIENCED] Which format do you think is best for 6x6x6 and 7x7x7?
 
-- Yes
-- Neutral
-- No
+- Mean of 3
+- Average of 5 (with an potential cutoff after 2 solves)
+- Median of 3 (only the middle solve counts)
 
 <hr>
 
