@@ -1,1 +1,1 @@
-A place to draft community survey ideas in the open, for when we're ready.
+[2019 Draft Survey](./2019/draft/)
