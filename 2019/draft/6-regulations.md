@@ -26,6 +26,8 @@ Please note that the WCA will take multiple factors into account when making a d
 - Prepared Speedsolve
 - Match the Scramble
 - 15 Puzzle
+- Multi-Competitor Relays (e.g. 3 competitors solving one puzzle each)
+- Cubic Puzzle Relays (e.g. 2x2x2 through 5x5x5)
 - Multi-puzzle relays (e.g. the “Guildford challenge”)
 - Linear Fewest Moves
 - Fewest Moves Duel (head-to-head Linear Fewest Moves with a chess clock)
